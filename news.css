@@ -89,11 +89,12 @@ h3{
   margin-top: 30px;
   padding:20px;
   align-content: space-between;
+  justify-content: center;
   
 }
 
 .left{
-  
+  margin-right: 80px;
   width: 585px;
   padding-right: 10px;
 }
