@@ -311,23 +311,24 @@ body{
   
   .container{
     align-items: center;
-    padding-top: 600px;
+    padding-top: 100px;
+    
     width: 816px;
     height: 960px;
     grid-gap: 12px;
     margin:auto;
     display: grid;
-    overflow: hidden;
+    overflow: scroll;
     
      grid-template: 
-    ". item1 item2 ." 20vh
-    ". item3 item4 ."20vh
-    ". item5 item6 ."20vh
-    ". item7 item8 ."20vh
-    ". item9 item10 ."
-    ". item11 item12 ."
-    ". item13 item14 ."
-    ". item15 item16 ."
+    ". item1 item2 ." 1fr
+    ". item3 item4 ."1fr
+    ". item5 item6 ."1fr
+    ". item7 item8 ."1fr
+    ". item9 item10 ."1fr
+    ". item11 item12 ."1fr
+    ". item13 item14 ."1fr
+    ". item15 item16 ."1fr
      /1fr 1fr 1fr 1fr; 
     
   }
@@ -487,6 +488,7 @@ body{
     flex-direction: column;
     text-align: center;
     margin-left: 250px;
+    margin-top: 10px;
   }
   
   .connect{
