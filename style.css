@@ -1,6 +1,6 @@
 body{
   background-color: #393E46;
-  
+  font-family: cursive;
 }
 
 .logo {
@@ -51,7 +51,10 @@ nav > a {
   
 }
 
-
+a{
+  color: white;
+  text-decoration: none;
+}
 
 nav {
   display: flex;
