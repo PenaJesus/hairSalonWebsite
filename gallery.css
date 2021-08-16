@@ -92,7 +92,7 @@ body{
 .item-1{
   grid-area: item1;
   background-color: blue;
-  background: url(/images/boom.jpg)no-repeat;
+  background: url(./images/boom.jpg)no-repeat;
   height: 170px;
   width: 210px;
   background-size: cover;
@@ -101,7 +101,7 @@ body{
 .item-2{
   grid-area: item2;
   background-color: blueviolet;
-  background: url(/images/airmax.jpg)no-repeat;
+  background: url(./images/airmax.jpg)no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -109,7 +109,7 @@ body{
 .item-3{
   grid-area: item3;
   background-color: burlywood;
-  background: url(/images/red-shirt.jpg)no-repeat;
+  background: url(./images/red-shirt.jpg)no-repeat;
   height: 170px;
   width: 210px;
   
@@ -118,7 +118,7 @@ body{
 .item-4{
   grid-area: item4;
   background-color: cadetblue;
-  background: url(/images/bones.jpg)no-repeat;
+  background: url(./images/bones.jpg)no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -126,7 +126,7 @@ body{
 .item-5{
   grid-area: item5;
   background-color: cadetblue;
-  background: url(/images/peace.jpg)no-repeat;
+  background: url(./images/peace.jpg)no-repeat;
   background-size: contain;
   height: 170px;
   width: 210px;
@@ -135,7 +135,7 @@ body{
 .item-6{
   grid-area: item6;
   background-color: cadetblue;
-  background: url(/images/dreams.jpg) no-repeat;
+  background: url(./images/dreams.jpg) no-repeat;
   background-size: contain;
   height: 170px;
   width: 210px;
@@ -144,7 +144,7 @@ body{
 .item-7{
   grid-area: item7;
   background-color: cadetblue;
-  background: url(/images/black-suit.jpg) no-repeat;
+  background: url(./images/black-suit.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -152,7 +152,7 @@ body{
 .item-8{
   grid-area: item8;
   background-color: cadetblue;
-  background: url(/images/blue-shirt.jpg) no-repeat;
+  background: url(./images/blue-shirt.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -160,7 +160,7 @@ body{
 .item-9{
   grid-area: item9;
   background-color: cadetblue;
-  background: url(/images/tomato.jpg) no-repeat;
+  background: url(./images/tomato.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -168,7 +168,7 @@ body{
 .item-10{
   grid-area: item10;
   background-color: cadetblue;
-  background: url(/images/love.jpg) no-repeat;
+  background: url(./images/love.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -176,7 +176,7 @@ body{
 .item-11{
   grid-area: item11;
   background-color: cadetblue;
-  background: url(/images/cone.jpg) no-repeat;
+  background: url(./images/cone.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -184,7 +184,7 @@ body{
 .item-12{
   grid-area: item12;
   background-color: cadetblue;
-  background: url(/images/af1.jpg) no-repeat;
+  background: url(./images/af1.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -192,7 +192,7 @@ body{
 .item-13{
   grid-area: item13;
   background-color: cadetblue;
-  background: url(/images/yeezy.jpg) no-repeat;
+  background: url(./images/yeezy.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -200,7 +200,7 @@ body{
 .item-14{
   grid-area: item14;
   background-color: cadetblue;
-  background: url(/images/blazer.jpg) no-repeat;
+  background: url(./images/blazer.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -208,7 +208,7 @@ body{
 .item-15{
   grid-area: item15;
   background-color: cadetblue;
-  background: url(/images/beanie.jpg) no-repeat;
+  background: url(./images/beanie.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -216,7 +216,7 @@ body{
 .item-16{
   grid-area: item16;
   background-color: cadetblue;
-  background: url(/images/white-shirt.jpg) no-repeat;
+  background: url(./images/white-shirt.jpg) no-repeat;
   height: 170px;
   width: 210px;
 }
@@ -340,7 +340,7 @@ body{
   .item-1{
     grid-area: item1;
     background-color: blue;
-    background: url(/images/boom.jpg)no-repeat;
+    background: url(./images/boom.jpg)no-repeat;
     height: 170px;
     width: 210px;
     background-size: cover;
@@ -350,7 +350,7 @@ body{
   .item-2{
     grid-area: item2;
     background-color: blueviolet;
-    background: url(/images/airmax.jpg)no-repeat;
+    background: url(./images/airmax.jpg)no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -359,7 +359,7 @@ body{
   .item-3{
     grid-area: item3;
     background-color: burlywood;
-    background: url(/images/red-shirt.jpg)no-repeat;
+    background: url(./images/red-shirt.jpg)no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -368,7 +368,7 @@ body{
   .item-4{
     grid-area: item4;
     background-color: cadetblue;
-    background: url(/images/bones.jpg)no-repeat;
+    background: url(./images/bones.jpg)no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -377,7 +377,7 @@ body{
   .item-5{
     grid-area: item5;
     background-color: cadetblue;
-    background: url(/images/peace.jpg)no-repeat;
+    background: url(./images/peace.jpg)no-repeat;
     background-position-y: center;
     height: 170px;
     width: 210px;
@@ -386,7 +386,7 @@ body{
   .item-6{
     grid-area: item6;
     background-color: cadetblue;
-    background: url(/images/dreams.jpg) no-repeat; 
+    background: url(./images/dreams.jpg) no-repeat; 
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -395,7 +395,7 @@ body{
   .item-7{
     grid-area: item7;
     background-color: cadetblue;
-    background: url(/images/black-suit.jpg) no-repeat;
+    background: url(./images/black-suit.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -404,7 +404,7 @@ body{
   .item-8{
     grid-area: item8;
     background-color: cadetblue;
-    background: url(/images/blue-shirt.jpg) no-repeat;
+    background: url(./images/blue-shirt.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -413,7 +413,7 @@ body{
   .item-9{
     grid-area: item9;
     background-color: cadetblue;
-    background: url(/images/tomato.jpg) no-repeat;
+    background: url(./images/tomato.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -422,7 +422,7 @@ body{
   .item-10{
     grid-area: item10;
     background-color: cadetblue;
-    background: url(/images/love.jpg) no-repeat;
+    background: url(./images/love.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -431,7 +431,7 @@ body{
   .item-11{
     grid-area: item11;
     background-color: cadetblue;
-    background: url(/images/cone.jpg) no-repeat;
+    background: url(./images/cone.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -440,7 +440,7 @@ body{
   .item-12{
     grid-area: item12;
     background-color: cadetblue;
-    background: url(/images/af1.jpg) no-repeat;
+    background: url(./images/af1.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -449,7 +449,7 @@ body{
   .item-13{
     grid-area: item13;
     background-color: cadetblue;
-    background: url(/images/yeezy.jpg) no-repeat;
+    background: url(./images/yeezy.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -458,7 +458,7 @@ body{
   .item-14{
     grid-area: item14;
     background-color: cadetblue;
-    background: url(/images/blazer.jpg) no-repeat;
+    background: url(./images/blazer.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -467,7 +467,7 @@ body{
   .item-15{
     grid-area: item15;
     background-color: cadetblue;
-    background: url(/images/beanie.jpg) no-repeat;
+    background: url(./images/beanie.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
@@ -476,7 +476,7 @@ body{
   .item-16{
     grid-area: item16;
     background-color: cadetblue;
-    background: url(/images/white-shirt.jpg) no-repeat;
+    background: url(./images/white-shirt.jpg) no-repeat;
     height: 170px;
     width: 210px;
     background-position-y: center;
