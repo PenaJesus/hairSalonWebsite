@@ -261,10 +261,13 @@ body{
     display: flex;
     width: 100%;
     font-family: 'Encode Sans SC', sans-serif;
-    flex-direction: row;
+    flex-direction: column;
     background-color: #232931;
     height: 100px;
-    align-items: center;
+    justify-content: flex-end;
+    overflow: visible;
+    padding-top:200px;
+    margin-left: 150px;
   }
   
   nav > a {
@@ -483,6 +486,7 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin-left: 250px;
   }
   
   .connect{
