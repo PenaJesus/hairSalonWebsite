@@ -76,8 +76,48 @@ nav {
   margin: 50px auto 28px;
    
 }
+h2{
+  color: #4ECCA3;
+}
+h3{
+  color:#232931;
+}
+.container{
+  color: #EEEEEE;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  padding:20px;
+  align-content: space-between;
+  
+}
 
-/* #footer{
+.left{
+  
+  width: 585px;
+  padding-right: 10px;
+}
+
+.right{
+  margin-top: 150px;
+  align-content:flex-end ;
+  border: 5px solid #232931;
+  height: 60vh;
+  overflow-y: scroll;
+  width: 320px;
+  padding: 10px;
+  
+}
+
+
+
+
+
+
+
+
+
+ #footer{
   background-color: #4ECCA3;
   display: flex;
   flex-direction: column;
@@ -85,5 +125,5 @@ nav {
 }
 
 .connect{
-  float: right; }*/
+  float: right; }
   
