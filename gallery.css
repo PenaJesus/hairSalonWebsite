@@ -318,7 +318,7 @@ body{
     grid-gap: 12px;
     margin:auto;
     display: grid;
-    overflow: scroll;
+    overflow-y: scroll;
     
      grid-template: 
     ". item1 item2 ." 1fr
